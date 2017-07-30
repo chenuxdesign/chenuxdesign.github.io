@@ -1,6 +1,6 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("font-awesome.min.css");
-@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext')
+/*@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext')*/
 
 
 /* Reset */
@@ -1147,7 +1147,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3e3e3e;
-		font-family: 'Lato';
+		font-family: 'Open sans';
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
