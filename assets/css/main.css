@@ -1769,14 +1769,14 @@
 			
 			.footerbuttons {
 			float:left;
-			width:35px;	
+			width:25px;
 
 			}
 			
 			.footerbuttons2 {
 			margin-top:1px;
 			float:left;
-			width:40px;	
+			width:20px;
 
 			}
 
@@ -1797,13 +1797,13 @@
 			
 			.email {
 			float:left;
-			width:135px;
+			width:125px;
 			height:50px;
 
 			}
 			.resume {
 			float:right;
-			width:135px;
+			width:122px;
 			height:50px;
 
 			}
