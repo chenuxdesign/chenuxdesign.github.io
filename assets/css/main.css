@@ -1161,11 +1161,11 @@
 	}
 
 	h1 {
-		font-weight: 900;
+		font-weight: 300;
 	}
 
 		h1 strong {
-			font-weight: 700;
+			font-weight: 500;
 		}
 
 	em, i {
