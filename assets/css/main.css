@@ -1286,8 +1286,9 @@
 			display: block;
 			margin: auto;
 			cursor: default;
-			height:100px;
-			width:100px;
+			height:90px;
+			width:90px;
+			background-image: url('../images/specialty1.png');
 		}
 
 			.icon.featured:before {
