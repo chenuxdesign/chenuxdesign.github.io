@@ -1,5 +1,6 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 /*@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext')*/
 
 
@@ -19,7 +20,7 @@
 	
 	ul li a {
 	font-size:15px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	}
 	
 
