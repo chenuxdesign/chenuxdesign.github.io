@@ -1286,8 +1286,8 @@
 			display: block;
 			margin: auto;
 			cursor: default;
-			height:110px;
-			width:110px;
+			height:100px;
+			width:100px;
 		}
 
 			.icon.featured:before {
