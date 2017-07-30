@@ -2158,7 +2158,7 @@
 
 			hr {
 				margin-top:0px;
-				margin-bottom:10px;
+				margin-bottom:32px;
 				width:90%;
 				border-color:#dddddd;
 
@@ -2181,7 +2181,7 @@
 			}
 
 				.wrapper.first {
-					padding-top: 9em;
+					padding-top: 8em;
 				}
 
 				.wrapper.style4 .row-special {
@@ -2410,6 +2410,7 @@
 			.wrapper.style2 {
 				width:90%;
 				margin:auto;
+
 				
 				}
 
