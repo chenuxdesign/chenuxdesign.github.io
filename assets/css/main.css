@@ -2347,6 +2347,8 @@
 				}
 
 				/*project 1 */
+
+
 				.box.style2.project1{
 					background-image:url("images/zaocan.jpg");
 					background-size:cover;
@@ -2370,6 +2372,18 @@
 					background-image:url("images/sidework.jpg");
 					background-size:cover;
 					overflow:hidden;
+				}
+
+		        .box.style2.project5{
+			        background-image:url("images/support.png");
+			        background-size:cover;
+			        overflow:hidden;
+		        }
+
+		        .box.style2.project6 {
+					background-image: url("images/consolegameplay.jpg");
+					background-size: cover;
+					overflow: hidden;
 				}
 				
 
