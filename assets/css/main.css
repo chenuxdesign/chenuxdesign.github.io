@@ -1315,7 +1315,7 @@
 		}
 		
 		.wrapper.second {
-		background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url("images/zaocan.jpg");
+		background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("images/zaocan.jpg");
         background-position: center center;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -1330,7 +1330,7 @@
 		
 		
 		.wrapper.third {
-		background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url("images/university.jpg");
+		background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url("images/university.jpg");
         background-position: left center;
 		background-repeat: no-repeat;
 		background-attachment: cover;
@@ -1343,7 +1343,7 @@
 		}
 		
 		.wrapper.fourth {
-		background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url("images/designpattern.png");
+		background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("images/designpattern.png");
         background-position: center center;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -1877,6 +1877,7 @@
 			h1 {
 				font-size: 44px;
 				text-align:center;
+				line-height:56px;
 			}
 
 			h2 {
