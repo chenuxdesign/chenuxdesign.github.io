@@ -1655,6 +1655,9 @@
 		    background-color: #fff;
 			}
 
+            .projectimage52 img {width:375px;
+			}
+
 			.projectimage53{
 			background-image:url("images/projectcomponent.png");
 			background-size: contain;
