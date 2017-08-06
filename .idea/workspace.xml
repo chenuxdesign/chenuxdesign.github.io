@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f04893-a1b9-46a4-85b9-a3197629ab30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project6.html" afterPath="$PROJECT_DIR$/project6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chenuxdesign.github.io.iws" />
@@ -54,21 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project6.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project6.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7389163">
-              <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+            <state vertical-scroll-proportion="-30.306122">
+              <caret line="108" column="128" selection-start-line="108" selection-start-column="128" selection-end-line="108" selection-end-column="128" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-189.84616">
-              <caret line="1649" column="0" selection-start-line="1649" selection-start-column="0" selection-end-line="1649" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40694788">
+              <caret line="1374" column="33" selection-start-line="1374" selection-start-column="33" selection-end-line="1374" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -104,9 +104,9 @@
       <list>
         <option value="$PROJECT_DIR$/project1.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/project5.html" />
         <option value="$PROJECT_DIR$/project6.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -238,12 +238,6 @@
       <created>1501389205838</created>
       <option name="number" value="Default" />
       <updated>1501389205838</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Update home page icons">
-      <created>1501451900875</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1501451900875</updated>
     </task>
     <task id="LOCAL-00038" summary="update pages">
       <created>1501470201151</created>
@@ -533,7 +527,13 @@
       <option name="project" value="LOCAL" />
       <updated>1502062816842</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="update pages">
+      <created>1502062859703</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1502062859703</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,18 +701,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/project6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-189.84616">
-          <caret line="1649" column="0" selection-start-line="1649" selection-start-column="0" selection-end-line="1649" selection-end-column="0" />
+        <state vertical-scroll-proportion="-30.306122">
+          <caret line="108" column="128" selection-start-line="108" selection-start-column="128" selection-end-line="108" selection-end-column="128" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project6.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7389163">
-          <caret line="120" column="31" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.40694788">
+          <caret line="1374" column="33" selection-start-line="1374" selection-start-column="33" selection-end-line="1374" selection-end-column="33" />
           <folding />
         </state>
       </provider>
