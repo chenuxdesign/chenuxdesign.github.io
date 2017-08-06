@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="70px" viewBox="0 0 90 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="64.5454545" y="24.5454545" width="25.4545455" height="44.5454545" rx="6"></rect>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-245.000000, -239.000000)">
+            <g id="Group-3" transform="translate(245.000000, 239.000000)">
+                <rect id="Rectangle-2" stroke="#000000" stroke-width="3" x="1.5" y="1.5" width="74.2727273" height="53.3636364" rx="8"></rect>
+                <path d="M75.7727273,46.0454545 L75.7727273,48.3628975 C75.7727273,51.9563802 72.8690311,54.8636364 69.2761672,54.8636364 L7.99656004,54.8636364 C4.41176437,54.8636364 1.5,51.9483462 1.5,48.3628975 L1.5,46.0454545 L75.7727273,46.0454545 Z" id="Combined-Shape" stroke="#000000" stroke-width="3"></path>
+                <g id="Rectangle-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="3" x="66.0454545" y="26.0454545" width="22.4545455" height="41.5454545" rx="6"></rect>
+                </g>
+                <path d="M88.5,61.5 L88.5,63.0857172 C88.5,65.5735287 86.4839427,67.5909091 83.9998609,67.5909091 L70.5455936,67.5909091 C68.0593028,67.5909091 66.0454545,65.575868 66.0454545,63.0849512 L66.0454545,61.5 L88.5,61.5 Z" id="Combined-Shape" stroke="#000000" stroke-width="3"></path>
+                <path d="M39.5454545,55.9090909 L39.5454545,65.9090909" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M29.5454545,66.8181818 L48.6363636,66.8181818" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="round"></path>
+            </g>
+            <path d="M260.5,247.5 L253.789557,254.210443" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M269.5,248.5 L253.597169,264.402831" id="Line" stroke="#000000" stroke-width="3" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
